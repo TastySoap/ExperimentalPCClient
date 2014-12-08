@@ -1,0 +1,45 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio files
+Properties
+App.config
+*.sdf
+*.sln
+*.v*.suo
+*.vcxproj*
+*.csproj
+
+# Linker and compiler files
+obj
+bin
+
+# Packages (NuGet)
+packages
+packages.config
